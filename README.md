@@ -30,4 +30,4 @@
 
 ## 📈 Результат работы
 В ходе проекта разработана система сегментации пользователей по трем критериям лояльности (амбассадоры, киты, VIP), что позволяет отделу маркетинга точечно настраивать офферы и снижать стоимость привлечения (CAC).
-![Динамика LMAU по сегментам лояльности](images/lmau_segments.png)
+[![Результаты сегментации](https://colab.research.google.com/github/YegorZinAnalyst/mobile-marketing-performance-analysis/blob/main/notebooks/mobile_marketing_performance_analysis.ipynb)

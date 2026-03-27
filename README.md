@@ -25,7 +25,7 @@
 
 ## 🚀 Как запустить проект
 Проект полностью автономен и не требует локальной настройки базы данных:
-1. Откройте ноутбук через Google Colab: [![Open In Colab](https://colab.research.google.com)](ССЫЛКА_НА_ТВОЙ_КОЛАБ)
+1. Откройте ноутбук через Google Colab: [![Open In Colab](https://colab.research.google.com)](https://raw.githubusercontent.com/YegorZinAnalyst/mobile-marketing-performance-analysis/refs/heads/main/notebooks/mobile_marketing_performance_analysis.ipynb)
 2. Запустите все ячейки (`Ctrl + F9`). Данные автоматически подтянутся из этого репозитория.
 
 ## 📈 Результат работы

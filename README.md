@@ -26,8 +26,9 @@
 ## 🚀 Как запустить проект
 Проект полностью автономен и не требует локальной настройки базы данных:
 1. Откройте ноутбук через Google Colab:[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com/github/YegorZinAnalyst/mobile-marketing-performance-analysis/blob/main/notebooks/mobile_marketing_performance_analysis.ipynb)
-2. Запустите все ячейки (`Ctrl + F9`). Данные автоматически подтянутся из этого репозитория.
+
+3. Запустите все ячейки (`Ctrl + F9`). Данные автоматически подтянутся из этого репозитория.
 
 ## 📈 Результат работы
 В ходе проекта разработана система сегментации пользователей по трем критериям лояльности (амбассадоры, киты, VIP), что позволяет отделу маркетинга точечно настраивать офферы и снижать стоимость привлечения (CAC).
-[![Результаты сегментации](https://colab.research.google.com/github/YegorZinAnalyst/mobile-marketing-performance-analysis/blob/main/notebooks/mobile_marketing_performance_analysis.ipynb)
+[![Результаты сегментации](images/lmau_segments.png)](https://colab.research.google.com/github/YegorZinAnalyst/mobile-marketing-performance-analysis/blob/main/notebooks/mobile_marketing_performance_analysis.ipynb)

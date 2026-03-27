@@ -1,0 +1,15 @@
+ID Item,Name Item,Type
+133,Crystal,Currency
+146,Gold Coins,Currency
+988,Ammo,Ammo
+989,Bazooka Rockets,Ammo
+1000,AK-47,Weapon
+1001,M-16,Weapon
+1002,Bazooka,Weapon
+1003,Thermo-bomb,Weapon
+97,Timber,Materials
+98,Stone,Materials
+99,Metal,Materials
+2001,Truck,Transport
+2002,Tank,Transport
+2003,Helicopter,Transport
